@@ -1,4 +1,4 @@
-baseurl = "/Blogdown/"
+baseurl = "/Bladdogdown/"
 languageCode = "en-us"
 title = "Kyle's Website"
 theme = "hugo-lithium"
