@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kyle&#39;s Website</title>
-    <link>/Bladdogdown/categories/</link>
+    <link>/Blogdown/categories/</link>
     <description>Recent content in Categories on Kyle&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/Bladdogdown/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Blogdown/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/Bladdogdown/categories/r/</link>
+      <link>/Blogdown/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/Bladdogdown/categories/r/</guid>
+      <guid>/Blogdown/categories/r/</guid>
       <description></description>
     </item>
     
