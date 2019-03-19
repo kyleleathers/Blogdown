@@ -3,68 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blogdown-example/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>/Blogdown/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogdown-example/about/</loc>
+    <loc>/Blogdown/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogdown-example/2015/07/23/hello-r-markdown/</loc>
+    <loc>/Blogdown/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogdown-example/2015/01/01/lorem-ipsum/</loc>
+    <loc>/Blogdown/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blogdown-example/categories/</loc>
+    <loc>/Blogdown/bio/</loc>
+  </url>
+  
+  <url>
+    <loc>/Blogdown/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/</loc>
+    <loc>/Blogdown/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/tags/plot/</loc>
+    <loc>/Blogdown/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/post/</loc>
+    <loc>/Blogdown/post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/categories/r/</loc>
+    <loc>/Blogdown/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/tags/r-markdown/</loc>
+    <loc>/Blogdown/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/tags/regression/</loc>
+    <loc>/Blogdown/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blogdown-example/tags/</loc>
+    <loc>/Blogdown/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
