@@ -14,15 +14,15 @@ publishDir = "docs"
 [[menu.main]]
     name = "Bio"
     url = "/Bio/"
-    weight = 2
+   
 [[menu.main]]
     name = "Research"
     url = "https://github.com/rstudio/blogdown"
-    weight = 1
+
 [[menu.main]]
     name = "Teaching"
     url = "https://twitter.com/rstudio"
-    weight = 3
+   
 
 [params]
     description = "A website built through Hugo and blogdown."
