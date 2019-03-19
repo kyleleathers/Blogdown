@@ -51,13 +51,32 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Bio</title>
+      <title></title>
       <link>/Blogdown/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/Blogdown/bio/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+      <description>About Me
+Kyle Leathers Graduate Student
+I am a graduate student interested in how environmental stressors and species interactions affect communities. I enjoy exploring new scientific questions and have a broad research background in aquatic ecology. My previous work includes pharmaceutical and pesticide pollution’s effects on intraguild predation and computational fluid dynamics models that are used to simulate crustacean olfactory search. I am looking forward to investigating the effects of streamflow alteration on community composition and food web dynamics in the Ruhi Lab.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/Blogdown/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Blogdown/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/Blogdown/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/Blogdown/teaching/</guid>
+      <description></description>
     </item>
     
   </channel>

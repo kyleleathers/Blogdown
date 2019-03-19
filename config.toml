@@ -14,18 +14,21 @@ publishDir = "docs"
 [[menu.main]]
     name = "Bio"
     url = "/Bio/"
+    weight = 2
    
 [[menu.main]]
     name = "Research"
-    url = "https://github.com/rstudio/blogdown"
+    url = "/Research/"
+    weight = 1
 
 [[menu.main]]
     name = "Teaching"
-    url = "https://twitter.com/rstudio"
+    url = "/Teaching/"
+    weight = 3
    
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Kyle Leathers Personal Website"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"

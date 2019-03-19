@@ -27,6 +27,14 @@
   </url>
   
   <url>
+    <loc>/Blogdown/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/Blogdown/teaching/</loc>
+  </url>
+  
+  <url>
     <loc>/Blogdown/categories/</loc>
     <priority>0</priority>
   </url>
